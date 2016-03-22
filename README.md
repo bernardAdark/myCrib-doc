@@ -36,7 +36,7 @@ wobbles.list()
 
 ```json
 [
-  { "attributes" :{
+  { "attributes": {
       "id": "2",
       "location": "Asafo",
       "number_of_tenants": "2",
@@ -55,13 +55,13 @@ wobbles.list()
             }
          ],
 
-         "owner":{
+         "owner": {
           "name": "Kwasi Wusu"
          }
       "link": "localhost":3000/cribs/2   
     }
 
-    { "attributes" :{
+    { "attributes": {
       "id": "2",
       "location": "Asafo",
       "number_of_tenants": "2",
@@ -80,10 +80,10 @@ wobbles.list()
             }
          ],
 
-         "owner":{
+         "owner": {
           "name": "Kwasi Wusu"
          }
-      "link": "localhost":3000/cribs/2   
+      "link": "localhost:3000/cribs/2"   
     }
   
 ]
