@@ -39,8 +39,8 @@ wobbles.list()
   { "attributes": {
       "id": "2",
       "location": "Asafo",
-      "number_of_tenants": "2",
-      }
+      "number_of_tenants": "2"
+      },
       "rels": {
          "tenants": [
             {
@@ -58,7 +58,7 @@ wobbles.list()
          "owner": {
           "name": "Kwasi Wusu"
          },
-      "link": "localhost":3000/cribs/2   
+      "link": "localhost:3000/cribs/2"   
     }
 
     { "attributes": {
@@ -129,7 +129,7 @@ wobbles.list()
       "number_of_tenants": "2"
       },
       "rels": {
-         "link": "localhost":3000/cribs/2 ,
+         "link": "localhost:3000/cribs/2" ,
          "tenants": [
             {
             "id": 5,
